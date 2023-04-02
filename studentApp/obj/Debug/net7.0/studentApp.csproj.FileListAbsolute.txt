@@ -1,0 +1,15 @@
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\bin\Debug\net7.0\studentApp.exe
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\bin\Debug\net7.0\studentApp.deps.json
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\bin\Debug\net7.0\studentApp.runtimeconfig.json
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\bin\Debug\net7.0\studentApp.dll
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\bin\Debug\net7.0\studentApp.pdb
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\studentApp.csproj.AssemblyReference.cache
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\studentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\studentApp.AssemblyInfoInputs.cache
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\studentApp.AssemblyInfo.cs
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\studentApp.csproj.CoreCompileInputs.cache
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\studentApp.dll
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\refint\studentApp.dll
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\studentApp.pdb
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\studentApp.genruntimeconfig.cache
+C:\Users\FATMA\OneDrive\Masaüstü\Github\studentApp\obj\Debug\net7.0\ref\studentApp.dll
